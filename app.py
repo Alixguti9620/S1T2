@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+# jorge-viz - Agregando este comentario como prueba de modificación de archivo para el punto 2. Trabajar con distintas ramas en un repo de Github
 
 app = dash.Dash(
     __name__,
