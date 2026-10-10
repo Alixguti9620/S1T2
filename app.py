@@ -9,6 +9,8 @@ import datetime as dt
 
 # jorge-viz - Agregando este comentario como prueba de modificación de archivo para el punto 2. Trabajar con distintas ramas en un repo de Github
 
+# Segundo cambio a realizar como evidencia del punto 3. Publicar un repositorio en GitHub
+
 app = dash.Dash(
     __name__,
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
